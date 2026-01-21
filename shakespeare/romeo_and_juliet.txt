@@ -1,0 +1,3 @@
+Whats in a name? That which we call a rose By any other name would smell as sweet. > romeo_and_juliet.txt
+cat romeo_and_juliet.txt
+echo Whats in a name? That which we call a rose By any other name would smell as sweet.
